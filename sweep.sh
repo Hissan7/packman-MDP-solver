@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Local helper (not submitted). Runs the official evaluation commands over several seeds.
+# Local helper. Runs the official evaluation commands over several seeds.
 # Usage: ./sweep.sh <smallGrid|mediumClassic|mediumMaze> <seed1> <seed2> ...
 # PY overrides the interpreter; the default is the marker-matching 3.12.7 conda env.
 
